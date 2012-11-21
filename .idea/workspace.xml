@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c74a015a-5f24-4619-946d-4d9e5e18be84" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jkblog.iml" afterPath="$PROJECT_DIR$/.idea/jkblog.iml" />
     </list>
     <ignored path="jkblog.iws" />
     <ignored path=".idea/workspace.xml" />
