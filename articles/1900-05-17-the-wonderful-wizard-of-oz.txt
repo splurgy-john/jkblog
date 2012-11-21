@@ -1,7 +1,7 @@
-title: The Wonderful Wizard of Oz
-author: Lyman Frank Baum
-date: 1900/05/17
+title: Well this is cool!
+author: John Katsnelson
+date: 11/21/2012
 
-Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, 
-who was a farmer, and Aunt Em, who was the farmer's wife.
+Here's my really lightweight todo blog!
+This is going to be fun to play with.
 
